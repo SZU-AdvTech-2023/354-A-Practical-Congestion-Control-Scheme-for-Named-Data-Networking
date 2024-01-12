@@ -1,0 +1,7 @@
+@inproceedings{REPO354,
+    author = "Schneider, Klaus and Yi, Cheng and Zhang, Beichuan and Zhang, Lixia",
+    booktitle = "Proceedings of the 3rd ACM Conference on Information-Centric Networking",
+    pages = "21--30",
+    title = "{A Practical Congestion Control Scheme for Named Data Networking}",
+    year = "2016"
+}
